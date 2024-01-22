@@ -1,2 +1,2 @@
 heyy my friend
-On a branch
+Deliberately changing contents in the new branch
