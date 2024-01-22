@@ -6,3 +6,5 @@ Update remotely
 
 Testing rebase
 Now editing in developer branch
+Testing for floating tags
+
